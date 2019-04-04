@@ -2,7 +2,7 @@
 
 2023. La France est une poudrière. Les zones de non-droit grossissent de plus en plus et l'armée est obligée d'intervenir dans certains secteurs pour y rétablir l'ordre.
 Des groupes de rebelles hostiles aux immigrés et à l'état commencent à prendre de l'ampleur.
-Le joueur dirige Célestin Chancla, un jeune garçon de 18 ans dans une France ravagée par la guerre civile. Timide, puceau et asocial, victimisé à la fois par ses amis et sa famille, Célestin tombe sous le charme d'une jeune japonaise qui se révèle être liée à un groupe de rebelles. Ensemble, ils combattront le gouvernement libéral cosmopolite désirant maintenir en place son pouvoir despotique mais aussi les terroristes désirant conquérir le pays au nom du Califat.
+Le joueur dirige un jeune garçon de 18 ans dans une France ravagée par la guerre civile. Timide, puceau et asocial, victimisé à la fois par ses amis et sa famille, il tombe sous le charme d'une jeune japonaise qui se révèle être liée à un groupe de rebelles. Ensemble, ils combattront le gouvernement libéral cosmopolite désirant maintenir en place son pouvoir despotique mais aussi les terroristes désirant conquérir le pays au nom du Califat.
 
 ## Statut et prérequis
 
@@ -17,7 +17,7 @@ Date de sortie  : Je sais pas
 
 ## Participer au projet
 
-Pour récupérer le projet complet, il faut cloner le dépot.
+Pour récupérer le projet complet, il faut cloner le dépot, pas seulement le télécharger.
 
 ## Télecharger la bonne version d'Unity
 
